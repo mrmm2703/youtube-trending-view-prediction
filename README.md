@@ -13,4 +13,4 @@ The usage of this program is very simple, simply run `python main.py` and follow
 
 **Database:**
 
-The database used is called 'Trending YouTube Video Statistics' for US viewers, and the database can be downloaded from [Kaggle](https://www.kaggle.com/datasnaek/youtube-new "Link to database") and is included inside of the repository as well as `database.csv`.
+The database used is called 'Trending YouTube Video Statistics' for US viewers, and the database can be downloaded from [Kaggle](https://www.kaggle.com/datasnaek/youtube-new "Link to database") and is included inside of the repository as `database.csv`.
