@@ -1,0 +1,12 @@
+# Requirements for using program
+# Install using pip install -r requirements.txt while within this directory
+
+numpy
+scipy
+matplotlib
+ipython
+jupyter
+pandas
+sympy
+nose
+scikit-learn
