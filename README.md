@@ -11,6 +11,10 @@ The code depends on some python modules, namely `scikit-learn`. To install `scik
 
 The usage of this program is very simple, simply run `python main.py` and follow the on-screen commands.
 
+**Model:**
+
+The model after learnt can be saved to the local disk (as `model.joblib` in the same directory). You will have the choice of ignoring it or using it, as well as saving or not saving learnt models in the program.
+
 **Database:**
 
 The database used is called 'Trending YouTube Video Statistics' for US viewers, and the database can be downloaded from [Kaggle](https://www.kaggle.com/datasnaek/youtube-new "Link to database") and is included inside of the repository as `database.csv`.
